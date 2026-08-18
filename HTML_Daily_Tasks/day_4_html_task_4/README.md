@@ -61,6 +61,4 @@ project/
 
 * HTML5
 
-## Author
 
-Jasper
